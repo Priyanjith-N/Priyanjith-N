@@ -9,6 +9,11 @@
 - 📫 How to reach me: Connect with me on LinkedIn or email to discuss potential collaborations or projects.
 
 ⚡ Fun fact: I created my first website when I was 15 using online tutorials and have been passionate about coding ever since.
+
+[![Instagram](https://img.shields.io/badge/Instagram-priyan_jith-blue?logo=instagram&logoColor=white)](https://www.instagram.com/priyan_jith/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanjith%20N-blue)](https://www.linkedin.com/in/priyanjith-n/)
+
 <!---
 Priyanjith-N/Priyanjith-N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
