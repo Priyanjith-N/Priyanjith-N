@@ -10,9 +10,11 @@
 
 ⚡ Fun fact: I created my first website when I was 15 using online tutorials and have been passionate about coding ever since.
 
-[![Instagram](https://img.shields.io/badge/Instagram-priyan_jith-blue?logo=instagram&logoColor=white)](https://www.instagram.com/priyan_jith/)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanjith%20N-blue)](https://www.linkedin.com/in/priyanjith-n/)
+
+[![Email](https://img.shields.io/badge/Email-jithpriyan2006%40gmail.com-red)](mailto:jithpriyan2006@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-priyan_jith-blue?logo=instagram&logoColor=white)](https://www.instagram.com/priyan_jith/)
 
 <!---
 Priyanjith-N/Priyanjith-N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
