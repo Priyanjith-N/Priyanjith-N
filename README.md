@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanjith%20N-blue)](https://www.linkedin.com/in/priyanjith-n/)
 
-[![Email](https://img.shields.io/badge/Email-jithpriyan2006%40gmail.com-blue)](mailto:priyanjithnofficial@gmail.com)
+[![Email](https://img.shields.io/badge/Email-priyanjithnofficial@gmail.com-blue)](mailto:priyanjithnofficial@gmail.com)
 
 [![Instagram](https://img.shields.io/badge/Instagram-priyan_jith-blue?logo=instagram&logoColor=white)](https://www.instagram.com/priyan_jith/)
 
